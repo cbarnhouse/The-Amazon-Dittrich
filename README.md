@@ -4,4 +4,7 @@ This is a parody website written with HTML/CSS/JS/Bootstrap. One of my professor
 
 It even has its own commercial! You can check out the commerical for the Amazon Dittrich on Youtube here: https://www.youtube.com/watch?v=qnywJF--zGg
 
+# Website
+http://clbarnhouse01.people.ysu.edu/Amazon-Dittrich2/
+
 Obviously I have no affiliations with Amazon or its products and the Amazon Dittrich isn't a real product. This is just a creative and funny project I did for class!
